@@ -1,0 +1,74 @@
+/*-----------------------Gallery Open----------------------------*/
+
+#navb
+{
+	
+}
+#ulist
+{
+	list-style-type:none;
+	padding:0;
+	display:inline-block;
+
+}
+li{
+	float:left;
+	
+	background-color:lightblue;
+	color:#fff;
+	padding:15px;
+	
+	
+	
+	width:100% auto;
+	
+}
+li a{
+	text-decoration:none;
+	color:green;
+}
+li a:hover
+{
+	background-color:yellow;
+	
+	
+}
+#imgdiv
+{
+	margin-left:25%;
+	text-align:center;
+	width:50%;
+	border:2px solid blue;
+	height:auto;
+	background-color:blue;
+}
+#img1
+{
+	margin:0;
+	width:100% ;
+	height:100% auto;
+}
+#mar{
+	color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------Gallery close---------------------------*/
